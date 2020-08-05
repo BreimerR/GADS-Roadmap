@@ -9,4 +9,4 @@ A roadmap for learners in the Google Africa Developer Scholarship on Pluralsight
 [Cloud](https://github.com/mikeattara/GADS2020-Roadmap/blob/master/Cloud.md)
 
 
-[Android](https://github.com/mikeattara/GADS2020-Roadmap/blob/master/Android.md)
+[Android](https://github.com/BreimerR/GADS-Roadmap/blob/master/Android.md)
