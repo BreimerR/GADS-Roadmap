@@ -1,0 +1,54 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "mikeattara",
+      "name": "Mike Perry Y Attara",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/31483629?v=4",
+      "profile": "https://mikeattara.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "CHISOM96",
+      "name": "Chisom Nnabuihe",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29149442?v=4",
+      "profile": "https://github.com/CHISOM96",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Nyamador",
+      "name": "Desmond ",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48738520?v=4",
+      "profile": "http://Nyamador.me",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "udoyen",
+      "name": "george udosen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3130489?v=4",
+      "profile": "https://georgeudosennigeria.wordpress.com/",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "projectName": "GADS2020-Roadmap",
+  "projectOwner": "mikeattara",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
