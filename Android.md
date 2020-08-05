@@ -1,8 +1,8 @@
 #[Google Associate Android developer 2020]((https://app.pluralsight.com/paths/skills/google-android-associate-developer-aad))
 
-<img style=" background-color:#0000EF;" src="https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Andela-logo@2x.png"></img>
+![Andela](https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Andela-logo@2x.png)
 
-<img src="https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/google-1.png"></img>
+![Google](https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/google-1.png)
 
 
 Welcome to the path of becoming an Android Engineer.
